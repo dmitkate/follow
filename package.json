@@ -2,6 +2,7 @@
   "name": "followers",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dmitkate.github.io/follow/",
   "dependencies": {
     "@fontsource/montserrat": "^4.5.14",
     "@testing-library/jest-dom": "^5.16.5",
